@@ -1,0 +1,16 @@
+// pub struct HeuristicAlgorithm {
+//     pub colors: Vec<Color>,
+//     pub color_count: usize,
+//     pub color_map: HashMap<Color, usize>,
+//     pub color_map_inverse: HashMap<usize, Color>,
+//     pub color_map_count: HashMap<Color, usize>,
+//     pub color_map_count_inverse: HashMap<usize, usize>,
+//     pub color_map_count_inverse_inverse: HashMap<usize, usize>,
+//     pub color_map_count_inverse_inverse_inverse: HashMap<usize, usize>,
+//     pub color_map_count_inverse_inverse_inverse_inverse: HashMap<usize, usize>,
+//     pub color_map_count_inverse_inverse_inverse_inverse_inverse: HashMap<usize, usize>,
+//     pub color_map_count_inverse_inverse_inverse_inverse_inverse_inverse: HashMap<usize, usize>,
+//     pub color_map_count_inverse_inverse_inverse_inverse_inverse_inverse_inverse: HashMap<usize, usize>,
+//     pub color_map_count_inverse_inverse_inverse_inverse_inverse_inverse_inverse_inverse: HashMap<usize, usize>,
+//     pub color_map_count_inverse_inverse_inverse_inverse_inverse_inverse_inverse_inverse_inverse: HashMap<usize, usize>,
+// } 
